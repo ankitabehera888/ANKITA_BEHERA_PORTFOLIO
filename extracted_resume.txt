@@ -1,0 +1,46 @@
+=== PAGE 1 ===
+ANKITA BEHERA 
+Brahmapur, Odisha, India 
+ankitabehera888777@gmail.com  |  +91 8144599088  |  LinkedIn  |  GitHub 
+SUMMARY 
+CS undergraduate (CGPA 8.93) building applied AI/ML and NLP systems — LLM-integrated tools, classification pipelines, and automation agents 
+shipped as working prototypes, not just coursework. AWS Machine Learning Foundations certified. Looking for an AI/ML internship where I can 
+own a feature end-to-end. 
+TECHNICAL SKILLS 
+Languages: Python, Java, C, SQL 
+ML / AI: Machine Learning, Deep Learning, NLP, Generative AI, LLMs, TF-IDF 
+Frameworks / Libraries: NumPy, Pandas, FastAPI, Streamlit 
+Tools & Cloud: Git, GitHub, VS Code, Jupyter Notebook, AWS SageMaker 
+PROJECTS 
+Finance Agentic AI  GitHub 2026 
+Tech: Python, Agno, Groq, YFinance, DuckDuckGo Search 
+● Built a multi-agent financial assistant that provides live stock prices, financial analysis, analyst recommendations, and latest 
+company news through natural-language queries. 
+● Integrated YFinance and DuckDuckGo Search as external tools, enabling agents to retrieve real-time market data and relevant 
+financial information for analysis. 
+● Used Agno with Groq-powered LLMs to orchestrate agent-based reasoning and deliver concise, data-driven financial insights to 
+users. 
+Email Auto-Reply Suggestion System  GitHub 2026 
+Tech: Python, NLP, TF-IDF, Machine Learning, FastAPI, Streamlit 
+● Built an email classification and reply-suggestion system covering 4 intent categories, trained on 50,000 labeled email samples. 
+● Implemented text preprocessing and TF-IDF vectorization with a Linear SVM classifier, achieving 90.15% accuracy on the test 
+set. 
+● Developed a role-based reply generation engine that produces professional, context-aware email responses for roles including HR, 
+Manager, Professor, Client, and Employee. 
+● Shipped a FastAPI backend with an interactive Streamlit frontend featuring To/From fields, intent prediction, role detection, 
+confidence scoring, and full-format email reply generation. 
+CERTIFICATIONS 
+● Oracle Certified Foundations Associate — Agentic AI, Oracle — August 2026 
+● AWS Academy Graduate — Machine Learning Foundations (20 hrs), Amazon Web Services — June 2026 
+● AWS Academy Graduate — Machine Learning for Natural Language Processing (20 hrs), Amazon Web Services — July 2026 
+● Cloud Collaborative Machine Learning — NIST University — June 2026 
+EDUCATION 
+NIST University, Berhampur, Odisha — B.Tech, Computer Science Engineering 2024 – 2028 
+CGPA: 8.93 (through 4th Semester) 
+Kendriya Vidyalaya, Berhampur, Odisha — CBSE Class X 2021 – 2022 
+Kendriya Vidyalaya, Berhampur, Odisha — CBSE Class XII (Senior Secondary) 2023 – 2024 
+CONFERENCES & WORKSHOPS 
+● India AI Impact Summit 2026 — Pre-Summit Workshop, IIT Bhubaneswar: sessions on LLM architecture, responsible AI, and AI 
+cybersecurity. 
+● International Conference on Air Defence and Security (ICADS-26), NIST University — organized with Army Air Defence 
+College, IEEE, and DRDO (Feb 2026). 
